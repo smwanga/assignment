@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 width="10px" height="13px" viewBox="0 0 10 13" preserveAspectRatio="xMidYMid">
+	 <style>
+		.cls-1 {
+			fill: #ee394e;
+		}
+	 </style>
+	<path class="cls-1" fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M8,0h2L6,13H4L8,0z"/>
+	<path class="cls-1" fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M4,0h2L2,13H0L4,0z"/>
+</svg>
